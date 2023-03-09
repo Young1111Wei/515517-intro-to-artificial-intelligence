@@ -1,1 +1,1 @@
-# 515517Intro.-to-Artificial-Intelligence
+# 515517-intro-to-artificial-intelligence 
